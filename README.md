@@ -28,9 +28,9 @@
 |:---:|:---:|:---:|
 | <div align="center"><img src="https://skillicons.dev/icons?i=java,php,py,ts" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" /><br/><img src="https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" /></div> |
 | Backend & APIs | Databases | DevOps & Cloud |
-| <div align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs,php" /><br/><img src="https://img.shields.io/badge/Yii2-03979E?style=for-the-badge&logo=yii&logoColor=white" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=postgresql,mysql" /><br/><img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=aws,firebase,docker,github" /></div> |
+| <div align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs,php" /><br/><img src="https://img.shields.io/badge/Yii2-03979E?style=for-the-badge&logo=yii&logoColor=white" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=postgresql,mysql" /><br/><img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=firebase,docker,github" /></div> |
 | IDEs & Tools | Design & UI/UX | Machine Learning |
-| <div align="center"><img src="https://skillicons.dev/icons?i=vscode,idea,postman,npm" /></div> | <div align="center"><br/><img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" /> <img src="https://img.shields.io/badge/Affinity-222324?style=for-the-badge&logo=affinity&logoColor=white" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=tensorflow,py" /></div> |
+| <div align="center"><img src="https://skillicons.dev/icons?i=vscode,idea,postman,npm" /></div> | <div align="center"><br/><img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" /> <img src="https://skillicons.dev/icons?i=figma" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=tensorflow,py" /></div> |
 </div>
 <hr />
 <br />
